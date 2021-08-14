@@ -1,0 +1,71 @@
+header
+{
+	background-color: rgb(40, 182, 238);
+	height: 600x;
+	padding-top: 50px;	
+    border-radius: 200;
+
+	
+}
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+border-style: solid ;
+border-width: 70px;
+border-color: rgb(206, 205, 200);
+background-color: rgb(244, 248, 252);
+}
+
+.photo{
+    margin-right:10%;
+    margin-left:7%;
+    border-radius: 120px;
+	width: 195px;
+	height:195px;
+	overflow:hidden;
+    size: 100px;
+     
+
+}
+.reseau{
+    margin-left: 25%;
+    margin-top: -10%;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 200%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.identite{
+    width: 600px;
+    height: 300px;
+    border: 07px solid rgb(247, 165, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-stretch: expanded;  
+    background-color: rgb(241, 200, 194);
+    position: relative;
+    top: 10px;
+    left: 35px;
+     
+}
+.profil{
+    width: 600px;
+    height: 350px;
+    border: 07px solid rgb(247, 165, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-stretch: expanded;
+    position: absolute;
+    top: 350px;
+    right: 150px;
+    background-color: rgb(241, 200, 194);
+}
+.form{
+    position: relative; 
+}
+.bas{
+    height: 200px;
+    margin-top: 170px;
+    background-color: rgb(245, 176, 153);
+    
+}
+
